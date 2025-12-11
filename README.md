@@ -369,9 +369,6 @@ Contributions are welcome! Areas for improvement:
 - Support for multiple languages
 - Integration with EHR systems
 
-## 📄 License
-
-This project is provided for educational and research purposes.
 
 ## 👥 Support
 
@@ -395,4 +392,5 @@ For questions or issues:
 
 ---
 
-**Happy Coding! 🚀**
+**"Happy Coding!" ~Priyanshu🚀**
+
